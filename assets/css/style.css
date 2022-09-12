@@ -45,10 +45,33 @@ h1{
     font-size: 75%;
 }
 
-#articolo, ul{
+#articolo, ul, table{
     margin-top: 30px;
 }
 
 .evidenziato{
     background-color: yellow;
+}
+
+table{
+    border-spacing: 0;
+}
+tr,td{
+    width: 15%;
+    text-align: left; 
+    border: 0;
+}
+
+td{
+    height: 50px;
+}
+
+th{
+    background-color: #20a9e5;
+    color: white;
+}
+
+
+.colore{
+    background-color: #b1e5f2;
 }
