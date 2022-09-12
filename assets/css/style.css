@@ -24,8 +24,16 @@ h1{
     font-size: 50px;
 }
 
-#autore{
+.autore{
     color: #20a9e5;
+}
+
+.data{
+    font-size: 15px;
+}
+
+.introduzione, .data{
+    color: grey;
 }
 
 main, header img{
