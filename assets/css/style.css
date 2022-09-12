@@ -45,3 +45,10 @@ h1{
     font-size: 75%;
 }
 
+#articolo{
+    margin-top: 30px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
