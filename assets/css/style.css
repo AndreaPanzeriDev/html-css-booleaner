@@ -62,11 +62,11 @@ tr,td{
     border: 0;
 }
 
-td{
+tbody{
     height: 50px;
 }
 
-th{
+thead{
     background-color: #20a9e5;
     color: white;
 }
